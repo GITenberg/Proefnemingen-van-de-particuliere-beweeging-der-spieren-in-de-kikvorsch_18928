@@ -1,0 +1,30 @@
+_repo: Proefnemingen-van-de-particuliere-beweeging-der-spieren-in-de-kikvorsch_18928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swammerdam, Jan
+    birthdate: 1637
+    deathdate: 1680
+    gutenberg_agent_id: '8335'
+    url: http://www.gutenberg.org/2009/agents/8335
+    wikipedia: http://en.wikipedia.org/wiki/Jan_Swammerdam
+description: ''
+gutenberg_bookshelf:
+- Biology
+- Physiology
+gutenberg_issued: '2006-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18928'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcsh 'Muscle contraction'
+title: Proefnemingen van de particuliere beweeging der spieren in de kikvorsch
+url: http://www.gutenberg.org/ebooks/18928
