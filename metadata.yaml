@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8335
     wikipedia: http://en.wikipedia.org/wiki/Jan_Swammerdam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18928#Proefnemingen-van-de-particuliere-beweeging-der-spieren-in-de-kikvorsch
 gutenberg_bookshelf:
 - Biology
 - Physiology
